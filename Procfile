@@ -1,1 +1,1 @@
-web: php artisan serve --host=127.0.0.1 --port=8000
+web: heroku-php-apache2 public/
